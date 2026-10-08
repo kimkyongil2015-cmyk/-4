@@ -1,0 +1,6 @@
+{
+  "name": "머슬랩 (MUSCLE LAB) - 프리미엄 피트니스",
+  "description": "당신의 변화를 만드는 공간, 프리미엄 헬스장 머슬랩(MUSCLE LAB) 공식 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
